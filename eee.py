@@ -34,4 +34,3 @@ right(90)
 x8 = 0
 y8 = x8
 goto(x8,y8)
-
