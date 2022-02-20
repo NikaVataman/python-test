@@ -16,19 +16,18 @@ left(90)
 x4 = x3
 y4 = 0
 goto(x4,y4)
-
 color("purple")
 width(7)
 x5 = 0
-y5 = x - 90
+y5 = 150 - 90
 goto(x5,y5)
 left(90)
 x6 = -100
-y6 = x - 90
+y6 = 150 - 90
 goto(x6,y6)
 right(90)
 x7 = -100
-y7 = x - 150
+y7 = 0
 goto(x7,y7)
 right(90)
 x8 = 0
